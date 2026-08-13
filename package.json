@@ -17,10 +17,10 @@
     "middleware",
     "colors"
   ],
-  "version": "2.6.0",
+  "version": "2.6.0-lineaje-01",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bithavoc/express-winston.git"
+    "url": "https://github.com/lineaje-labs-gos/bithavoc-express-winston"
   },
   "bugs": {
     "url": "http://github.com/bithavoc/express-winston/issues",
@@ -87,6 +87,10 @@
       "name": "Robbie Trencheny",
       "email": "me@robbiet.us",
       "url": "http://robbie.io"
+    },
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
     }
   ]
 }
