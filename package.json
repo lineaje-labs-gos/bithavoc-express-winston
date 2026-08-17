@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "chalk": "~0.4.0",
-    "lodash": "4.18.1"
+    "lodash": ">=4.18.1"
   },
   "devDependencies": {
     "blanket": "^1.2.2",
@@ -92,5 +92,11 @@
       "name": "Lineaje DepFixer",
       "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
     }
-  ]
+  ],
+  "overrides": {
+    "lodash": ">=4.18.1"
+  },
+  "resolutions": {
+    "lodash": ">=4.18.1"
+  }
 }
